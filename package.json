@@ -1,0 +1,17 @@
+{
+  "name": "levelingbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Doggi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "is-hexcolor": "^1.0.0",
+    "mysql": "^2.18.1"
+  }
+}
